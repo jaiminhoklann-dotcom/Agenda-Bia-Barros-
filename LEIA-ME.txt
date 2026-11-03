@@ -1,4 +1,11 @@
-Bia Barros Produções — versão somente ADM.
-Envie index.html para a raiz do repositório GitHub substituindo o arquivo antigo.
-Inicialmente há somente o Administrador principal. Novos colaboradores podem ser criados na área Gerenciar acessos.
-ATENÇÃO: perfis são demonstração local, sem login seguro ou sincronização. Para produção, integrar autenticação e permissões no servidor.
+BIA BARROS PRODUÇÕES — VERSÃO COM CONVITES (PRÉVIA)
+
+ARQUIVOS: index.html e logo-bia-barros.png devem ficar na raiz do repositório GitHub Pages.
+
+INCLUSO: interface atual, calendário e campos extras, documentos locais, ADM inicial, cadastro de colaboradores e envio de link pelo WhatsApp.
+
+ATENÇÃO: Esta versão NÃO oferece login seguro, criação automática de contas, sincronização entre celulares ou permissões verificadas no servidor. O convite envia o endereço do aplicativo, mas não ativa o acesso. Não insira informações financeiras ou documentos confidenciais.
+
+Para ativar acesso real: configurar Supabase Auth, tabelas e políticas RLS, armazenamento privado e função de convite autenticada; depois conectar o aplicativo. A publishable key, sozinha, não ativa esses recursos.
+
+A logo PNG foi recuperada de uma captura de tela, portanto pode ter qualidade inferior ao arquivo original. Substitua por PNG exportado do logo original para qualidade máxima.
