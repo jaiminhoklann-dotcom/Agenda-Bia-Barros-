@@ -1,5 +1,9 @@
-BIA BARROS PRODUÇÕES — VERSÃO DE DEMONSTRAÇÃO
+BIA BARROS PRODUÇÕES — DEMONSTRAÇÃO
 
-Para publicar no GitHub Pages, extraia este ZIP e envie index.html na raiz do repositório. Em Settings > Pages, selecione Deploy from a branch, main, /(root).
+Envie index.html para a raiz do repositório GitHub Pages.
 
-ATENÇÃO: Esta versão usa armazenamento local no navegador e perfis simulados. NÃO oferece login seguro, controle real de acesso nem sincronização entre dispositivos. Não insira informações financeiras ou pessoais reais até configurar autenticação, banco de dados e regras de acesso no servidor.
+A seção Documentos permite selecionar e salvar arquivos do iPhone localmente usando IndexedDB. Arquivos NÃO são compartilhados entre celulares e podem desaparecer se os dados do navegador forem apagados. Não use informações confidenciais.
+
+Os perfis e permissões são apenas simulações. Para login real, permissões e compartilhamento seguro é necessário configurar Supabase Auth, banco de dados, regras RLS e Storage privado.
+
+A logo usa efeito visual para reduzir o fundo preto, mas não é um PNG transparente verdadeiro. Se a imagem original logo-bia-barros.jpeg não estiver na hospedagem, envie-a também.
