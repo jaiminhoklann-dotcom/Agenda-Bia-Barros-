@@ -1,9 +1,4 @@
-BIA BARROS PRODUÇÕES — DEMONSTRAÇÃO
-
-Envie index.html para a raiz do repositório GitHub Pages.
-
-A seção Documentos permite selecionar e salvar arquivos do iPhone localmente usando IndexedDB. Arquivos NÃO são compartilhados entre celulares e podem desaparecer se os dados do navegador forem apagados. Não use informações confidenciais.
-
-Os perfis e permissões são apenas simulações. Para login real, permissões e compartilhamento seguro é necessário configurar Supabase Auth, banco de dados, regras RLS e Storage privado.
-
-A logo usa efeito visual para reduzir o fundo preto, mas não é um PNG transparente verdadeiro. Se a imagem original logo-bia-barros.jpeg não estiver na hospedagem, envie-a também.
+Bia Barros Produções — versão somente ADM.
+Envie index.html para a raiz do repositório GitHub substituindo o arquivo antigo.
+Inicialmente há somente o Administrador principal. Novos colaboradores podem ser criados na área Gerenciar acessos.
+ATENÇÃO: perfis são demonstração local, sem login seguro ou sincronização. Para produção, integrar autenticação e permissões no servidor.
